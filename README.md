@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am Kynson Szetau 👋
 
 <!--
 **Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
