@@ -1,5 +1,6 @@
-### Hello! I am Kynson Szetau 👋
+## Hello! I am Kynson Szetau 👋
 
+I am a self-taught developer and a high school student from Hong Kong.
 <!--
 **Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
