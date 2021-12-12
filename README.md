@@ -6,10 +6,17 @@
 I am a self-taught developer and a high school student from Hong Kong.
 
 ### Tools
-<img src="https://img.shields.io/badge/-Github-121212?style=for-the-badge&logo=github&labelColor=181717" alt="Github Badge">
-<img src="https://img.shields.io/badge/-Google%20Cloud-121212?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
-<img src="https://img.shields.io/badge/-npm%20Registry-121212?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-121212?style=for-the-badge&logo=visual%20studio%20code&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
+<img src="https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=github&labelColor=181717" alt="Github Badge">
+<img src="https://img.shields.io/badge/-Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
+<img src="https://img.shields.io/badge/-npm%20Registry-gray?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&logo=visual%20studio%20code&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
+
+### Languages
+<img src="https://img.shields.io/badge/-Javascript-gray?style=for-the-badge&logo=javascript&labelColor=black&logoColor=f7df1e" alt="Javascript Badge">
+<img src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=f05138&logoColor=fff" alt="Rust Badge">
+<img src="https://img.shields.io/badge/-CSS3-gray?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=fff" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/-Swift-gray?style=for-the-badge&logo=swift&labelColor=fff&logoColor=f05138" alt="Swift Badge">
+
 <!-- For triggering a hit -->
 <img src="https://api.countapi.xyz/hit/kynsonszetau/github" height="0" width="0">
 
