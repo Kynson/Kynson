@@ -1,6 +1,9 @@
 ## Hello! I am Kynson Szetau 👋
 
+<img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkynsonszetau%2Fgithub&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
+
 I am a self-taught developer and a high school student from Hong Kong.
+
 <!--
 **Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
