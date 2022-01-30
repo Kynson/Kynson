@@ -1,15 +1,26 @@
+<ignore>
+<!-- Start of about ignored part -->
+
 ## Hello! I am Kynson Szetau 👋
 
 <!-- This will only update in an hourly basis -->
 <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fkynsonszetau%2Fgithub&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
 
+<!-- End of about ignored part -->
+</ignore>
+
 I am a self-taught developer and a high school student from Hong Kong.
+
+<ignore>
+<!-- Start of about ignored part -->
 
 ### Tools
 <img src="https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=github&labelColor=181717" alt="Github Badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
 <img src="https://img.shields.io/badge/-npm%20Registry-gray?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&logo=visual%20studio%20code&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
+
+  
 
 ### Languages
 <img src="https://img.shields.io/badge/-Javascript-gray?style=for-the-badge&logo=javascript&labelColor=black&logoColor=f7df1e" alt="Javascript Badge">
@@ -19,6 +30,9 @@ I am a self-taught developer and a high school student from Hong Kong.
 
 <!-- For triggering a hit -->
 <img src="https://api.countapi.xyz/hit/kynsonszetau/github" height="0" width="0">
+  
+<!-- End of about ignored part -->
+</ignore>
 
 <!--
 **Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
