@@ -9,7 +9,7 @@
 <!-- End of about ignored part -->
 </ignore>
 
-I am a self-taught developer and a high school student from Hong Kong.
+I am a self-taught developer and a university student from Hong Kong.
 
 <ignore>
 <!-- Start of about ignored part -->
