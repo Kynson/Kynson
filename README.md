@@ -27,9 +27,6 @@ I am a self-taught developer and a university student from Hong Kong.
 <img src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=f05138&logoColor=fff" alt="Rust Badge">
 <img src="https://img.shields.io/badge/-CSS3-gray?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=fff" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/-Swift-gray?style=for-the-badge&logo=swift&labelColor=fff&logoColor=f05138" alt="Swift Badge">
-
-<!-- For triggering a hit -->
-<img src="https://api.countapi.xyz/hit/kynsonszetau/github" height="0" width="0">
   
 <!-- End of about ignored part -->
 </ignore>
