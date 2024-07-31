@@ -4,7 +4,7 @@
 ## Hello! I am Kynson Szetau 👋
 
 <!-- This will only update in an hourly basis -->
-<img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fkynsonszetau%2Fgithub&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcounter.kynsonszetau.com%2Fgithubprofile&query=%24.newValue&?label=Profile%20Views&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
 
 <!-- End of about ignored part -->
 </ignore>
