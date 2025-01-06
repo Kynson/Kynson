@@ -9,7 +9,9 @@
 <!-- End of about ignored part -->
 </ignore>
 
+<about>
 I am a self-taught developer and a university student from Hong Kong.
+</about>
 
 <ignore>
 <!-- Start of about ignored part -->
@@ -18,7 +20,7 @@ I am a self-taught developer and a university student from Hong Kong.
 <img src="https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=github&labelColor=181717" alt="Github Badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
 <img src="https://img.shields.io/badge/-npm%20Registry-gray?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&logo=visual%20studio%20code&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
 
   
 
