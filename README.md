@@ -8,7 +8,7 @@
 <!-- End of about ignored part -->
 
 <introduction>
-I am a self-taught developer and a university student majoring in computer science. I am particular interested in web technologies, including Javascript, WebAssembly, web frameworks etc, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
+I am a self-taught developer and a university student majoring in computer science from Hong Kong. I am particular interested in web technologies, including Javascript, WebAssembly, web frameworks etc, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
 </introduction>
 
 <!-- Start of about ignored part -->
