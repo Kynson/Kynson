@@ -1,4 +1,3 @@
-<ignore>
 <!-- Start of about ignored part -->
 
 ## Hello! I am Kynson Szetau 👋
@@ -7,13 +6,11 @@
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcounter.kynsonszetau.com%2Fgithubprofile&query=%24.newValue&label=Profile%20Views&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
 
 <!-- End of about ignored part -->
-</ignore>
 
-<about>
+<introduction>
 I am a self-taught developer and a university student majoring in computer science. I am particular interested in web technologies, including Javascript, WebAssembly, web frameworks etc, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
-</about>
+</introduction>
 
-<ignore>
 <!-- Start of about ignored part -->
 
 ### Tools
@@ -25,13 +22,12 @@ I am a self-taught developer and a university student majoring in computer scien
   
 
 ### Languages
-<img src="https://img.shields.io/badge/-Javascript-gray?style=for-the-badge&logo=javascript&labelColor=black&logoColor=f7df1e" alt="Javascript Badge">
-<img src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=f05138&logoColor=fff" alt="Rust Badge">
-<img src="https://img.shields.io/badge/-CSS3-gray?style=for-the-badge&logo=css3&labelColor=1572b6&logoColor=fff" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/-Swift-gray?style=for-the-badge&logo=swift&labelColor=fff&logoColor=f05138" alt="Swift Badge">
+<img class="language-badge" src="https://img.shields.io/badge/-Javascript-gray?style=for-the-badge&logo=javascript&labelColor=black&logoColor=f7df1e" alt="Javascript Badge" display-name="JavaScript" icon-slug="js" icon-color="#f7df1e">
+<img class="language-badge" src="https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=css&labelColor=white&logoColor=8b4ad3" alt="CSS Badge" display-name="CSS" icon-slug="css" icon-color="#8b4ad3">
+<img class="language-badge" src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=black&logoColor=f46623" alt="Rust Badge" display-name="Rust" icon-slug="rust" icon-color="#f46623">
+<img class="language-badge" src="https://img.shields.io/badge/-C++-gray?style=for-the-badge&logo=cplusplus&labelColor=white&logoColor=00599c" alt="C++ Badge" display-name="C++" icon-slug="cplusplus" icon-color="#00599c">
   
 <!-- End of about ignored part -->
-</ignore>
 
 <!--
 **Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
