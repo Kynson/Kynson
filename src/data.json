@@ -1,0 +1,30 @@
+{
+  "introduction": "I am a self-taught developer and a university student majoring in computer science from Hong Kong. I am particular interested in web technologies, including Javascript, WebAssembly, web frameworks etc, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!",
+  "languages": [
+    {
+      "displayName": "JavaScript",
+      "iconSlug": "javascript",
+      "iconColor": "f7df1e"
+    },
+    {
+      "displayName": "TypeScript",
+      "iconSlug": "typescript",
+      "iconColor": "3178c6"
+    },
+    {
+      "displayName": "CSS",
+      "iconSlug": "css",
+      "iconColor": "8b4ad3"
+    },
+    {
+      "displayName": "Rust",
+      "iconSlug": "rust",
+      "iconColor": "f46623"
+    },
+    {
+      "displayName": "C++",
+      "iconSlug": "cplusplus",
+      "iconColor": "00599c"
+    }
+  ]
+}
