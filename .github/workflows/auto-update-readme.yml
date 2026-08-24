@@ -1,0 +1,27 @@
+name: Auto Update README.md
+
+on:
+  push:
+    branches: [main]
+    paths: [src/data.json]
+
+permissions:
+  contents: write
+
+jobs:
+  auto-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+      - name: Generate README.md from src/data.json
+        run: node src/generate-readme.ts
+      - name: Commit and Push New Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Exit with status 1 if something is staged
+          git diff-index HEAD --quiet || (git commit -m "chore: Auto update README.md" && git push origin main)
