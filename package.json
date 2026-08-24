@@ -1,0 +1,31 @@
+{
+  "name": "Kynson",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "generate-readme.ts",
+  "scripts": {
+    "test": "vitest",
+    "lint": "oxlint",
+    "lint:fix": "oxlint --fix",
+    "format": "oxfmt",
+    "format:fix": "oxfmt --fix"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "oxfmt": "^0.64.0",
+    "oxlint": "^1.79.0",
+    "oxlint-tsgolint": "^7.0.2001",
+    "vitest": "^4.1.11"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.9.0",
+      "onFail": "download"
+    }
+  }
+}
