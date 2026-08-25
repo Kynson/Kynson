@@ -14,14 +14,14 @@ I am a self-taught developer and a university student majoring in computer scien
 <!-- Start of about ignored part -->
 
 ### Tools
+
 <img src="https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=github&labelColor=181717" alt="Github Badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
 <img src="https://img.shields.io/badge/-npm%20Registry-gray?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
 
-  
-
 ### Languages
+
 <img class="language-badge" src="https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript&labelColor=black&logoColor=f7df1e" alt="JavaScript Badge" display-name="JavaScript" icon-slug="javascript" icon-color="#f7df1e">
 <img class="language-badge" src="https://img.shields.io/badge/-TypeScript-gray?style=for-the-badge&logo=typescript&labelColor=white&logoColor=3178c6" alt="TypeScript Badge" display-name="TypeScript" icon-slug="typescript" icon-color="#3178c6">
 <img class="language-badge" src="https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=css&labelColor=white&logoColor=8b4ad3" alt="CSS Badge" display-name="CSS" icon-slug="css" icon-color="#8b4ad3">
@@ -29,10 +29,11 @@ I am a self-taught developer and a university student majoring in computer scien
 <img class="language-badge" src="https://img.shields.io/badge/-C++-gray?style=for-the-badge&logo=cplusplus&labelColor=white&logoColor=00599c" alt="C++ Badge" display-name="C++" icon-slug="cplusplus" icon-color="#00599c">
 
 ### Octo Ring
+
 Discover other interesting profile!
 
 [[previous](https://octo-ring.com/p/Kynson/prev)] [[random](https://octo-ring.com/p/Kynson/random)] [[next](https://octo-ring.com/p/Kynson/next)]
-  
+
 <!-- End of about ignored part -->
 
 <!--
