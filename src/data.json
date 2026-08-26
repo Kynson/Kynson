@@ -26,5 +26,35 @@
       "iconSlug": "cplusplus",
       "iconColor": "00599c"
     }
-  ]
+  ],
+  "setup": {
+    "editor": {
+      "displayName": "Editor",
+      "values": [{ "label": "VSCode", "link": "https://code.visualstudio.com/" }]
+    },
+    "terminal": {
+      "displayName": "Terminal",
+      "values": [{ "label": "Kitty", "link": "https://sw.kovidgoyal.net/kitty/" }]
+    },
+    "shell": {
+      "displayName": "Shell",
+      "values": [{ "label": "zsh", "link": "https://zsh.sourceforge.io/" }]
+    },
+    "theme": {
+      "displayName": "Theme",
+      "values": [
+        { "label": "One Dark Pro", "link": "https://github.com/Binaryify/OneDark-Pro/" },
+        { "label": "Catppuccin Mocha", "link": "https://catppuccin.com/palette/" }
+      ]
+    },
+    "browser": {
+      "displayName": "Browser",
+      "values": [{ "label": "Zen", "link": "https://zen-browser.app/" }]
+    },
+    "programmingFont": {
+      "displayName": "Programming Font",
+      "values": [{ "label": "Fira Code", "link": "https://github.com/tonsky/firacode/" }]
+    },
+    "os": { "displayName": "OS", "values": [{ "label": "MacOS" }] }
+  }
 }

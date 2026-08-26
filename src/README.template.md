@@ -13,6 +13,16 @@
 <img src="https://img.shields.io/badge/-{languages[3].displayName}-gray?style=for-the-badge&logo={languages[3].iconSlug}&labelColor=black&logoColor={languages[3].iconColor}" alt="{languages[3].displayName} Badge" />
 <img src="https://img.shields.io/badge/-{languages[4].displayName}-gray?style=for-the-badge&logo={languages[4].iconSlug}&labelColor=black&logoColor={languages[4].iconColor}" alt="{languages[4].displayName} Badge" />
 
+### Setup
+<!-- Keyed object is used here instead of array like above because it is easier for identification if the values contains more than one elements -->
+- {setup.editor.displayName}: [{setup.editor.values[0].label}]({setup.editor.values[0].link})
+- {setup.terminal.displayName}: [{setup.terminal.values[0].label}]({setup.terminal.values[0].link})
+- {setup.shell.displayName}: [{setup.shell.values[0].label}]({setup.shell.values[0].link})
+- {setup.theme.displayName}: [{setup.theme.values[0].label}]({setup.theme.values[0].link}), [{setup.theme.values[1].label}]({setup.theme.values[1].link}) 
+- {setup.browser.displayName}: [{setup.browser.values[0].label}]({setup.browser.values[0].link})
+- {setup.programmingFont.displayName}: [{setup.programmingFont.values[0].label}]({setup.programmingFont.values[0].link})
+- {setup.os.displayName}: {setup.os.values[0].label}
+
 ### Octo Ring
 
 Discover other interesting profile!
