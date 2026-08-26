@@ -13,6 +13,16 @@ I am a self-taught developer and a university student majoring in computer scien
 <img src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=black&logoColor=f46623" alt="Rust Badge" />
 <img src="https://img.shields.io/badge/-C++-gray?style=for-the-badge&logo=cplusplus&labelColor=black&logoColor=00599c" alt="C++ Badge" />
 
+### Setup
+<!-- Keyed object is used here instead of array like above because it is easier for identification if the values contains more than one elements -->
+- Editor: [VSCode](https://code.visualstudio.com/)
+- Terminal: [Kitty](https://sw.kovidgoyal.net/kitty/)
+- Shell: [zsh](https://zsh.sourceforge.io/)
+- Theme: [One Dark Pro](https://github.com/Binaryify/OneDark-Pro/), [Catppuccin Mocha](https://catppuccin.com/palette/) 
+- Browser: [Zen](https://zen-browser.app/)
+- Programming Font: [Fira Code](https://github.com/tonsky/firacode/)
+- OS: MacOS
+
 ### Octo Ring
 
 Discover other interesting profile!
